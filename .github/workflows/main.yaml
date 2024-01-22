@@ -33,10 +33,13 @@ jobs:
         name: generated-csv
         path: downloaded-csv
 
-    - name: Commit CSV file
+    - name: Configure Git
       run: |
         git config --global user.email "actions-bot@example.com"
         git config --global user.name "GitHub Actions Bot"
+
+    - name: Commit CSV file
+      run: |
         git add downloaded-csv/overview_available_datasets.csv
         git commit -m "Add generated CSV file"
         git push
