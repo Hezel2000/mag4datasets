@@ -20,3 +20,9 @@ jobs:
 
     - name: Run Python script
       run: python generate_dataset_overview.py
+
+    - name: Commit CSV file
+      run: |
+        git add overview_available_datasets.csv
+        git commit -m "Add generated CSV file"
+        git push
