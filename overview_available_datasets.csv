@@ -1,24 +1,23 @@
-Name,ORCID,Title,Short Title,Description,Keywords,Type,Licence,Upload Date
-Dominik Hezel,0000-0002-5059-2281,Bastar Craton,bastcrat,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Tanzania Craton Archean,tanzcratarch,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Chondrite Properties,chondprop,xxx,xxx,basic,CC-BY-SA,21.01.2024
-Dominik Hezel,0000-0002-5059-2281,Chemical Element Properties,chemelprop,xxx,xxx,basic,CC-BY-SA,21.01.2024
-Dominik Hezel,0000-0002-5059-2281,Element Electron Binding Energies,ebindenergies,xxx,xxx,basic,CC-BY-SA,21.01.2024
-Dominik Hezel,0000-0002-5059-2281,Karoo Province - Africa,karaf,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Banda Arc,bandarc,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,"Hyblean or Iblean Plateau, Sicily",hybibplat,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Galapagos Islands,galis,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Emeishan,emei,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Abbreviated Mineral Symbols,abminsym,IMA–CNMNC approved mineral symbols,xxx,"Warr LN (2021) Mineralogical Magazine, 85:3, 291-320",https://doi.org/10.1180/mgm.2021.43,paper supplement by L. N. Warr,basic,CC-BY-SA,09.12.2023,08.06.2021,"Another string with
+Short Title,Description,Name,Upload Date,Title,Keywords,Licence,Creation Date,Source,Type,Comment,ORCID,dois,References
+bastcrat,xxx,Dominik Hezel,21.01.2024,Bastar Craton,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+tanzcratarch,xxx,Dominik Hezel,21.01.2024,Tanzania Craton Archean,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+chondprop,xxx,Dominik Hezel,21.01.2024,Chondrite Properties,xxx,CC-BY-SA,,,basic,,0000-0002-5059-2281,,
+chemelprop,xxx,Dominik Hezel,21.01.2024,Chemical Element Properties,xxx,CC-BY-SA,,,basic,,0000-0002-5059-2281,,
+ebindenergies,xxx,Dominik Hezel,21.01.2024,Element Electron Binding Energies,xxx,CC-BY-SA,,,basic,,0000-0002-5059-2281,,
+karaf,xxx,Dominik Hezel,21.01.2024,Karoo Province - Africa,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+bandarc,xxx,Dominik Hezel,21.01.2024,Banda Arc,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+hybibplat,xxx,Dominik Hezel,21.01.2024,"Hyblean or Iblean Plateau, Sicily",xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+galis,xxx,Dominik Hezel,21.01.2024,Galapagos Islands,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+emei,xxx,Dominik Hezel,21.01.2024,Emeishan,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+abminsym,IMA–CNMNC approved mineral symbols,Dominik Hezel,09.12.2023,Abbreviated Mineral Symbols,xxx,CC-BY-SA,08.06.2021,paper supplement by L. N. Warr,basic,"Another string with
   multiple
-  line breaks."
-Dominik Hezel,0000-0002-5059-2281,West African Craton,westafcrat,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Easter Seamount Chain Salas Y Gomez Ridge,eastsearid,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Chondrite Element Abundances,chondelab,xxx,xxx,basic,CC-BY-SA,21.01.2024
-Dominik Hezel,0000-0002-5059-2281,Baical Rift Zone,baizone,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Oxide - Element Conversion Factors,oxelconv,xxx,xxx,basic,CC-BY-SA,21.01.2024
-https://orcid.org/0000-0002-5059-2281,Dominik Hezel,_ mag4 test file,test,test,test,Basic,CCO,,2024-01-22,,,,
-Dominik Hezel,0000-0002-5059-2281,North American Cordillera - Paleozoic,namcord,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,McDonald Islands,mcdis,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,Ninetyeast Ridge,ninetyrid,xxx,xxx,Database Dataset,CC-BY-SA,21.01.2024,Georoc
-Dominik Hezel,0000-0002-5059-2281,Element Electron Transition Energies,etransenergies,xxx,xxx,basic,CC-BY-SA,21.01.2024
+  line breaks.",0000-0002-5059-2281,https://doi.org/10.1180/mgm.2021.43,"Warr LN (2021) Mineralogical Magazine, 85:3, 291-320"
+westafcrat,xxx,Dominik Hezel,21.01.2024,West African Craton,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+eastsearid,xxx,Dominik Hezel,21.01.2024,Easter Seamount Chain Salas Y Gomez Ridge,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+chondelab,xxx,Dominik Hezel,21.01.2024,Chondrite Element Abundances,xxx,CC-BY-SA,,,basic,,0000-0002-5059-2281,,
+baizone,xxx,Dominik Hezel,21.01.2024,Baical Rift Zone,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+oxelconv,xxx,Dominik Hezel,21.01.2024,Oxide - Element Conversion Factors,xxx,CC-BY-SA,,,basic,,0000-0002-5059-2281,,
+namcord,xxx,Dominik Hezel,21.01.2024,North American Cordillera - Paleozoic,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+mcdis,xxx,Dominik Hezel,21.01.2024,McDonald Islands,xxx,CC-BY-SA,,Georoc,Database Dataset,,0000-0002-5059-2281,,
+ninetyrid,xxx,Dominik Hezel,21.01.2024,Ninetyeast Ridge,xxx,CC-BY-SA,,Georoc,Database Dataset,,,,
+etransenergies,xxx,Dominik Hezel,21.01.2024,Element Electron Transition Energies,xxx,CC-BY-SA,,,basic,,0000-0002-5059-2281,,
