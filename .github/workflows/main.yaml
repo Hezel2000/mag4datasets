@@ -21,4 +21,22 @@ jobs:
     - name: Run Python script
       run: python generate_dataset_overview.py
     
-    
+    - name: Upload CSV as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: generated-csv
+        path: overview_available_datasets.csv
+
+    - name: Download artifact
+      uses: actions/download-artifact@v2
+      with:
+        name: generated-csv
+        path: downloaded-csv
+
+    - name: Commit CSV file
+      run: |
+        git config --global user.email "actions-bot@example.com"
+        git config --global user.name "GitHub Actions Bot"
+        git add downloaded-csv/overview_available_datasets.csv
+        git commit -m "Add generated CSV file"
+        git push
