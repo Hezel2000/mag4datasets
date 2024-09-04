@@ -28,7 +28,7 @@ jobs:
         path: overview_available_datasets.csv
 
     - name: Download artifact
-      uses: actions/download-artifact@v2
+      uses: actions/download-artifact@v3
       with:
         name: generated-csv
         path: downloaded-csv
