@@ -12,26 +12,31 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Ensure full repository is checked out
+
+    - name: Pull Latest Changes
+      run: git pull origin main --rebase
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.8'
 
+    - name: Debug - List Repository Files
+      run: ls -l
+
+    - name: Ensure Python script is executable
+      run: chmod +x generate_dataset_overview.py
+
     - name: Run Python script
       run: python generate_dataset_overview.py
     
     - name: Upload CSV as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # Updated to latest version
       with:
         name: generated-csv
         path: overview_available_datasets.csv
-
-    - name: Download artifact
-      uses: actions/download-artifact@v3
-      with:
-        name: generated-csv
-        path: downloaded-csv
 
     - name: Configure Git
       run: |
@@ -41,5 +46,5 @@ jobs:
     - name: Commit CSV file
       run: |
         git add overview_available_datasets.csv
-        git commit -m "Add generated CSV file"
+        git diff --staged --quiet || git commit -m "Update dataset overview"
         git push
