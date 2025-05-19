@@ -1,31 +1,32 @@
-Request doi,Source,Creation Date,Version,Title,Upload Date,Comment,Licence,dois,Keywords,Description,Short Title,ORCID,References,Comments,Name,Type
-,Georoc,,,Ninetyeast Ridge,21.01.2024,,CC-BY-SA,,xxx,xxx,ninetyrid,,,,Dominik Hezel,Database Dataset
-no,"Lodders, K., & Fegley, B. (1998). The planetary scientist's companion. Oxford University Press.",2025-03-14,,test_table_elements,2025-03-14,,CC-BY SA,,"elements, sun, photosphere","In this table the main elements of the sun's photosphere are listed. This table is taken from Lodders, K., & Fegley, B. (1998). The planetary scientist's companion. Oxford University Press.",elements photosphere sun,https://orcid.org/0009-0001-7264-5081,,,Lara Friedrichs,Basic
-,Georoc,,,McDonald Islands,21.01.2024,,CC-BY-SA,,xxx,xxx,mcdis,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,,,,Chondrite Properties,21.01.2024,,CC-BY-SA,,xxx,xxx,chondprop,0000-0002-5059-2281,,,Dominik Hezel,basic
-no,,,,Mineral Data Example Dataset,2025-05-19,,CCO,,"mineral data, example",a brief list of mineral compositions,mineraldatex,https://orcid.org/0000-0002-5059-2281,,,Dominik C. Hezel,Example
-no,,,,chondritedb_test,2024-08-20,,CC-BY SA,,chondrite data,chondrite dataset,chondb,https://orcid.org/0000-0002-5059-2281,,,Dominik Hezel,Basic
-no,,,,chondritedb,2024-08-20,,CC-BY SA,,chonddb,chonddb,chonddb,https://orcid.org/0000-0002-5059-2281,,,Dominik Hezel,Basic
-,Georoc,,,Easter Seamount Chain Salas Y Gomez Ridge,21.01.2024,,CC-BY-SA,,xxx,xxx,eastsearid,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,Georoc,,,"Hyblean or Iblean Plateau, Sicily",21.01.2024,,CC-BY-SA,,xxx,xxx,hybibplat,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,Georoc,,,Karoo Province - Africa,21.01.2024,,CC-BY-SA,,xxx,xxx,karaf,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-no,,,,mag4_test,2025-03-13,,CCO,,test,test,test,https://orcid.org/0000-0002-5059-2281,,,Dominik C. Hezel,Basic
-,,,,Chondrite Element Abundances,21.01.2024,,CC-BY-SA,,xxx,xxx,chondelab,0000-0002-5059-2281,,,Dominik Hezel,basic
-,Georoc,,,Galapagos Islands,21.01.2024,,CC-BY-SA,,xxx,xxx,galis,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,,,,Element Electron Binding Energies,21.01.2024,,CC-BY-SA,,xxx,xxx,ebindenergies,0000-0002-5059-2281,,,Dominik Hezel,basic
-,Georoc,,,Tanzania Craton Archean,21.01.2024,,CC-BY-SA,,xxx,xxx,tanzcratarch,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,Georoc,,,Emeishan,21.01.2024,,CC-BY-SA,,xxx,xxx,emei,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-no,,,,chondrule Fe isotope example data,2025-05-16,,CCO,,"chondrules, Fe, isotopes, example data",example dataset,chdfeisoexdat,https://orcid.org/0000-0002-5059-2281,,,Dominik C. Hezel,Example
-,Georoc,,,Baical Rift Zone,21.01.2024,,CC-BY-SA,,xxx,xxx,baizone,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,Georoc,,,West African Craton,21.01.2024,,CC-BY-SA,,xxx,xxx,westafcrat,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,Georoc,,,Bastar Craton,21.01.2024,,CC-BY-SA,,xxx,xxx,bastcrat,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-no,,,,Mineral Data Example Dataset 2,2025-05-19,,CCO,,"mineral data, example",a brief list of mineral compositions,mineraldatex2,https://orcid.org/0000-0002-5059-2281,,,Dominik C. Hezel,Basic
-,Georoc,,,Banda Arc,21.01.2024,,CC-BY-SA,,xxx,xxx,bandarc,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,,,,Chemical Element Properties,21.01.2024,,CC-BY-SA,,xxx,xxx,chemelprop,0000-0002-5059-2281,,,Dominik Hezel,basic
-,,,,Element Electron Transition Energies,21.01.2024,,CC-BY-SA,,xxx,xxx,etransenergies,0000-0002-5059-2281,,,Dominik Hezel,basic
-,Georoc,,,North American Cordillera - Paleozoic,21.01.2024,,CC-BY-SA,,xxx,xxx,namcord,0000-0002-5059-2281,,,Dominik Hezel,Database Dataset
-,paper supplement by L. N. Warr,08.06.2021,,Abbreviated Mineral Symbols,09.12.2023,"Another string with
+Name,ORCID,References,Source,Request doi,Type,dois,Short Title,Creation Date,Keywords,Title,Upload Date,Version,Licence,Comment,Description,Comments
+Dominik Hezel,,,Georoc,,Database Dataset,,ninetyrid,,xxx,Ninetyeast Ridge,21.01.2024,,CC-BY-SA,,xxx,
+Lara Friedrichs,https://orcid.org/0009-0001-7264-5081,,"Lodders, K., & Fegley, B. (1998). The planetary scientist's companion. Oxford University Press.",no,Basic,,elements photosphere sun,2025-03-14,"elements, sun, photosphere",test_table_elements,2025-03-14,,CC-BY SA,,"In this table the main elements of the sun's photosphere are listed. This table is taken from Lodders, K., & Fegley, B. (1998). The planetary scientist's companion. Oxford University Press.",
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,mcdis,,xxx,McDonald Islands,21.01.2024,,CC-BY-SA,,xxx,
+Dominik C. Hezel,https://orcid.org/0000-0002-5059-2281,,,no,Example,,mineraldatex3,,"mineral data, example",Mineral Data Example Dataset 3,2025-05-19,,CCO,,a brief list of mineral compositions,
+Dominik Hezel,0000-0002-5059-2281,,,,basic,,chondprop,,xxx,Chondrite Properties,21.01.2024,,CC-BY-SA,,xxx,
+Dominik C. Hezel,https://orcid.org/0000-0002-5059-2281,,,no,Example,,mineraldatex,,"mineral data, example",Mineral Data Example Dataset,2025-05-19,,CCO,,a brief list of mineral compositions,
+Dominik Hezel,https://orcid.org/0000-0002-5059-2281,,,no,Basic,,chondb,,chondrite data,chondritedb_test,2024-08-20,,CC-BY SA,,chondrite dataset,
+Dominik Hezel,https://orcid.org/0000-0002-5059-2281,,,no,Basic,,chonddb,,chonddb,chondritedb,2024-08-20,,CC-BY SA,,chonddb,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,eastsearid,,xxx,Easter Seamount Chain Salas Y Gomez Ridge,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,hybibplat,,xxx,"Hyblean or Iblean Plateau, Sicily",21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,karaf,,xxx,Karoo Province - Africa,21.01.2024,,CC-BY-SA,,xxx,
+Dominik C. Hezel,https://orcid.org/0000-0002-5059-2281,,,no,Basic,,test,,test,mag4_test,2025-03-13,,CCO,,test,
+Dominik Hezel,0000-0002-5059-2281,,,,basic,,chondelab,,xxx,Chondrite Element Abundances,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,galis,,xxx,Galapagos Islands,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,,,basic,,ebindenergies,,xxx,Element Electron Binding Energies,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,tanzcratarch,,xxx,Tanzania Craton Archean,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,emei,,xxx,Emeishan,21.01.2024,,CC-BY-SA,,xxx,
+Dominik C. Hezel,https://orcid.org/0000-0002-5059-2281,,,no,Example,,chdfeisoexdat,,"chondrules, Fe, isotopes, example data",chondrule Fe isotope example data,2025-05-16,,CCO,,example dataset,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,baizone,,xxx,Baical Rift Zone,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,westafcrat,,xxx,West African Craton,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,bastcrat,,xxx,Bastar Craton,21.01.2024,,CC-BY-SA,,xxx,
+Dominik C. Hezel,https://orcid.org/0000-0002-5059-2281,,,no,Basic,,mineraldatex2,,"mineral data, example",Mineral Data Example Dataset 2,2025-05-19,,CCO,,a brief list of mineral compositions,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,bandarc,,xxx,Banda Arc,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,,,basic,,chemelprop,,xxx,Chemical Element Properties,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,,,basic,,etransenergies,,xxx,Element Electron Transition Energies,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,,Georoc,,Database Dataset,,namcord,,xxx,North American Cordillera - Paleozoic,21.01.2024,,CC-BY-SA,,xxx,
+Dominik Hezel,0000-0002-5059-2281,"Warr LN (2021) Mineralogical Magazine, 85:3, 291-320",paper supplement by L. N. Warr,,basic,https://doi.org/10.1180/mgm.2021.43,abminsym,08.06.2021,xxx,Abbreviated Mineral Symbols,09.12.2023,,CC-BY-SA,"Another string with
   multiple
-  line breaks.",CC-BY-SA,https://doi.org/10.1180/mgm.2021.43,xxx,IMA–CNMNC approved mineral symbols,abminsym,0000-0002-5059-2281,"Warr LN (2021) Mineralogical Magazine, 85:3, 291-320",,Dominik Hezel,basic
-,IAEA - Nuclear Data Section,2024-02-06,v1.0,nuclides-basics,2024-02-06,,CCO,,"nuclides, half-lifes, binding-energies",Basic data of nuclides,nucbasics,https://orcid.org/0000-0002-5059-2281,,,Dominik Hezel,Basic
-,,,,Oxide - Element Conversion Factors,21.01.2024,,CC-BY-SA,,xxx,xxx,oxelconv,0000-0002-5059-2281,,,Dominik Hezel,basic
+  line breaks.",IMA–CNMNC approved mineral symbols,
+Dominik Hezel,https://orcid.org/0000-0002-5059-2281,,IAEA - Nuclear Data Section,,Basic,,nucbasics,2024-02-06,"nuclides, half-lifes, binding-energies",nuclides-basics,2024-02-06,v1.0,CCO,,Basic data of nuclides,
+Dominik Hezel,0000-0002-5059-2281,,,,basic,,oxelconv,,xxx,Oxide - Element Conversion Factors,21.01.2024,,CC-BY-SA,,xxx,
